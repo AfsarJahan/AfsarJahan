@@ -151,17 +151,6 @@ Machine Learning • Deep Learning • Bayesian Statistics • Explainable AI �
 </div>
 
 ---
-## 📈 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" height="160"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
-</p>
-
-<div align="center">
 
 ### 💡 "Statistics turns data into evidence. Analytics turns evidence into decisions."
 
