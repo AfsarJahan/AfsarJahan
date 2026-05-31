@@ -53,31 +53,29 @@ I enjoy transforming complex datasets into actionable insights that support stra
 | 🎓 BSc Statistics & Data Science | CGPA: 9.79 |
 
 ---
-# 🔬 Research Portfolio
 
-## 📚 Publications
+## 🔬 Research Portfolio
 
-### Published
+### 📊 Research Snapshot
 
-- Spatiotemporal Clustering and Multivariate Forecasting of Air Quality Index Across Indian Cities Using Machine Learning and Deep Learning Models (Research paper)
-- Markov Chain Monte Carlo and Modern Bayesian Computation (Research paper)
-- Causal Estimation of Telehealth Modality Impact Using Simulated Patient Data and Non-Traditional Machine Learning (IEEE Conference)
-- Algorithmic Bias in Automated Decision-Making: A Statistical Study with Legal and Regulatory Implications (Research paper)
-- Non-Parametric Tests in Statistics(Book Chapter in Innovations & Applications in Experimental Design & Statistical Analysis Across Disciplines)
+| Category               | Count |
+| ---------------------- | ----- |
+| 📚 Publications        | 5     |
+| 📖 Book Chapters       | 1     |
+| ✅ Accepted for publication      | 3     |
+| ⏳ Under Review         | 4     |
+| 🚀 Patent Applications | 1     |
+| 🏆 Research Awards     | 1     |
 
-### Accepted
+---
 
-- Forecasting Crime Rates Using Time Series Models: A Comparative Analysis of ARIMAX, Prophet and BSTS (Q2 Journal paper)
-- Bayesian Experimental Design and Its Applications in Field Trials
-- Deep Learning for Climate Time Series Forecasting: Modeling Global Temperature Anomalies with LSTM Networks
+### 🌟 Selected Publications
 
+* Spatiotemporal Clustering and Multivariate Forecasting of Air Quality Index Across Indian Cities Using Machine Learning and Deep Learning Models
+* Markov Chain Monte Carlo and Modern Bayesian Computation
+* Causal Estimation of Telehealth Modality Impact Using Simulated Patient Data and Non-Traditional Machine Learning
+* Algorithmic Bias in Automated Decision-Making: A Statistical Study with Legal and Regulatory Implications
 
-### Under Review
-
-- Premium Calculation under Mortality and Interest Rate Uncertainty
-- Latent–Residual Drift Decomposition Framework for PCA-Based Process Monitoring
-- Sequential and Adaptive Experimental Design using Reinforcement Learning
-- Adaptive Conformal Inference for Streaming Data under Distribution Shift
 
 ### Intellectual Property
 
