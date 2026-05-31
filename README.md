@@ -39,20 +39,33 @@ I enjoy transforming complex datasets into actionable insights that support stra
 
 ---
 
-## 🏆 Highlights
 
-| Achievement | Details |
-|------------|----------|
-| 🥇 President Gold Medal | Outstanding Academic Performance |
-| 📜 Patent Filed | Self-Evolving Statistical Engine (SESE) |
-| 📚 Publications | 10+ Research Papers & Book Chapters |
-| 🎤 Conference Publications | AI, Telehealth, Bayesian Statistics |
-| 🥉 National Symposium | 3rd Place Paper Presentation |
-| 🏢 EY Challenge | Advanced Round Participant |
-| 🎓 MSc Statistics & Data Analytics | CGPA: 9.47 |
-| 🎓 BSc Statistics & Data Science | CGPA: 9.79 |
+## 🏆 Professional Snapshot
+
+
+<br>
+
+<div align="center">
+
+![Research](https://img.shields.io/badge/Research-Active-blueviolet?style=for-the-badge)
+![Publications](https://img.shields.io/badge/Publications-10+-success?style=for-the-badge)
+![Patent](https://img.shields.io/badge/Patent-Filed-orange?style=for-the-badge)
+![Gold Medal](https://img.shields.io/badge/President_Gold_Medal-Awarded-gold?style=for-the-badge)
+
+</div>
+
+### Highlights
+
+* 🥇 Awarded the **President Gold Medal** for academic excellence.
+* 🚀 Filed a patent for the **Self-Evolving Statistical Engine (SESE)**.
+* 📚 Authored **10+ research outputs**, including journal papers, conference publications, and book chapters.
+* 🏅 Secured **3rd Place** in a National Level Technical Symposium paper presentation.
+* 💼 Advanced to the **Detailed Presentation Round** of the EY National Case Competition.
 
 ---
+
+---
+
 
 ## 🔬 Research Portfolio
 
@@ -138,6 +151,15 @@ Machine Learning • Deep Learning • Bayesian Statistics • Explainable AI �
 </div>
 
 ---
+## 📈 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" height="160"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
+</p>
 
 <div align="center">
 
